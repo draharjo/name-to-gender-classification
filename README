@@ -1,0 +1,13 @@
+Objective:
+This project objective is for create a ML classifier that predict a name is probably a male or female name.
+
+Library used:
+1. Streamlit
+2. FastText
+3. Scikit learn
+4. Jcopml
+5. Pandas
+6. Numpy
+
+To run the streamlit, follow the following command in anaconda prompt:
+streamlit run web_apps_gender_classification.py
